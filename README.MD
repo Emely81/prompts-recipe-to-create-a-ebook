@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este repositório foi criado durante o Bootcamp promovido pela Caixa, [DIO](https://dio.me) e Microsoft como um desafio proposto pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
+ > ℹ️ **NOTE:** Este repositório foi criado durante o Bootcamp promovido pela [Caixa](https://www.caixa.gov.br/Paginas/home-caixa.aspx), [DIO](https://dio.me) e Microsoft como um desafio proposto pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
 Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
 
