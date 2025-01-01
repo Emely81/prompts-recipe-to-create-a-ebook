@@ -40,7 +40,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | Crie um título para um ebook sobre o tema ChatGPT. O ebook é do nicho inteligência artificial e o subnicho é IA generativa. O título deve ser atraente, popular e curto, e tenha uma temática para público feminino, na faixa entre 18 e 50 anos, que está tendo o primeiro contato com IA Generativa e ChatGPT, me liste 6 variações de títulos.
-| Conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| Conteúdo | Agora você é um escritor experiente e também profundo conhecedor de IA generativa, chatgpt e prompt. Faça um texto para ebook , com foco em IA Generativa, especialmente Chatgpt,  listando os principais modelos para escrever prompts assertivos com exemplos práticos para produção de conteúdo digital para Instagram. {REGRAS} Explique sempre de uma maneira simples. Deixe o texto curto e enxuto. Sempre traga exemplos de postagem em contextos reais, com situações do dia a dia. Sempre deixe um título sugestivo por tópico
 
 
 Midjourney：
