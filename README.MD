@@ -29,7 +29,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonardo Ai](https://app.leonardo.ai/)
+- [Leonardo AI](https://app.leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
