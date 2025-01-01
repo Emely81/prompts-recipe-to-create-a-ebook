@@ -52,7 +52,7 @@ Leonardo AI：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo AI
 
 ## 📚 Materiais
 
