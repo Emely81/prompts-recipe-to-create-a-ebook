@@ -69,7 +69,7 @@ Foram seguidas as instruções dos prompts comforme repositório fork do expert 
 <p>
     
     <p>&nbsp&nbsp&nbspEmely Inacio<br>
-    &nbsp&nbsp&nbsp
+
    
 <p>
 
