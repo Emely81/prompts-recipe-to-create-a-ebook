@@ -61,7 +61,7 @@ Leonardo AI：
 
 ## 🛠️ Instruções de execução
 
-Foram seguidas as instruções dos prompts conforme repositório fork do expert [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Foram seguidas as instruções dos prompts conforme repositório "forked" do expert [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
 
 ## 👨‍💻 Expert
