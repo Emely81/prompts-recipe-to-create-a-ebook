@@ -68,7 +68,7 @@ Foram seguidas as instruções dos prompts comforme repositório fork do expert 
 
 <p>
    
-    />
+
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
