@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/amostra.png"
+    src="./assets/Amostra.png"
     width="400"  
 />
 </p>
